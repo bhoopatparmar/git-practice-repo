@@ -1,0 +1,6 @@
+.aw_ca-company-edit {
+    .data-grid-checkbox-cell {
+        display: block !important;
+        width: 100% !important;
+    }
+}
